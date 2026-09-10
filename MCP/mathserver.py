@@ -3,7 +3,7 @@ from mcp.server.fastmcp import FastMCP
 mcp = FastMCP("MATH")
 
 
-@mcp.tool
+@mcp.tool()
 def add(a: int, b: int):
     """_summary_
     Add two numbers
@@ -11,7 +11,7 @@ def add(a: int, b: int):
     return a + b
 
 
-@mcp.tool
+@mcp.tool()
 def multiply(a: int, b: int):
     """_summary_
     multiply two numbers
