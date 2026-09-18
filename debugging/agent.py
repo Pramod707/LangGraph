@@ -62,4 +62,4 @@ def make_tool_graph():
     return graph
 
 
-tool_agent = make_tool_graph()
+graph = make_tool_graph()
