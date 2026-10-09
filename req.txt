@@ -13,3 +13,5 @@ langchain_tavily
 langchain-mcp-adapters
 mcp
 langgraph-cli[inmem]
+pypdf
+pymupdf
