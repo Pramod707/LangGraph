@@ -15,3 +15,4 @@ mcp
 langgraph-cli[inmem]
 pypdf
 pymupdf
+deepagents
