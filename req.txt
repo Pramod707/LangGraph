@@ -16,3 +16,4 @@ langgraph-cli[inmem]
 pypdf
 pymupdf
 deepagents
+tavily-python
